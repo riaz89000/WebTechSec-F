@@ -7,7 +7,6 @@
          <area>Banani</area>
          <division>Dhaka</division>
          </address>
-         <address>H# 38,R# 3,Banani,Dhaka</address>
          <department>Sales</department>
          <salary>20000</salary>
      </employee>  
@@ -20,7 +19,6 @@
          <area>Mirpur</area>
          <division>Dhaka</division>
          </address>
-         <address>Flat# A/1,H# 20,R# 18,Mirpur,Dhaka</address>
          <department>Accounts</department>
          <salary>12000</salary>
      </employee>  
@@ -31,7 +29,6 @@
          <road>3</road>
          <area>Motijheel</area>
          </address>
-         <address>H# 38,R# 3,Motijheel</address>
          <department>Human Resource</department>
          <salary>30000</salary>
      </employee> 
