@@ -1,26 +1,29 @@
-<products>
-     <product SL_NO ="23">
+<employees>
+     <employee SL_NO ="23">
          <name>John Carter</name>
          <admission_date>
          <day>25</day>
          <month>12</month>
          <year>2015</year>
+         </admission_date>
          <admission_date>25/12/2015</admission_date>
-     </product> 
-     <product SL_NO ="29">
+     </employee> 
+     <employee SL_NO ="29">
          <name>Bob Marshal</name>
          <admission_date>
          <day>13</day>
          <month>01</month>
          <year>1999</year>
+         </admission_date>
          <admission_date>13/01/1999</admission_date>
-     </product>     
-     <product SL_NO ="35">
+     </employee>     
+     <employee SL_NO ="35">
          <name>Clark kent</name>
          <admission_date>
          <day>17</day>
          <month>06</month>
          <year>2005</year>
+         </admission_date>
          <admission_date>17/06/2005</admission_date>
-     </product>   
-</products>     
+     </employee>   
+</employees>     
